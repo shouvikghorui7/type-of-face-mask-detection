@@ -33,14 +33,12 @@ pip install tensorflow opencv-python numpy matplotlib
 
 [![Facial Mask Detection Demo](cnn_demo.jpg)](video_cnn.mp4)
 
-<video width="560" height="315" controls>
-  <source src="video_cnn.mp4" type="video/mp4">
-  Your browse
 
-https://github.com/shouvikghorui7/type-of-face-mask-detection/assets/98247897/fee81b66-da0e-496f-b367-4999763f0261
+<video width="630" height="300" src="https://youtu.be/1o1lemAAv5w"></video>
 
-r does not support the video tag.
-</video>
+
+[![Facial Mask Detection](http://img.youtube.com/vi/1o1lemAAv5w/0.jpg)](http://www.youtube.com/watch?v=1o1lemAAv5w)
+
 
 
 
