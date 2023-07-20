@@ -35,7 +35,11 @@ pip install tensorflow opencv-python numpy matplotlib
 
 <video width="560" height="315" controls>
   <source src="video_cnn.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  Your browse
+
+https://github.com/shouvikghorui7/type-of-face-mask-detection/assets/98247897/fee81b66-da0e-496f-b367-4999763f0261
+
+r does not support the video tag.
 </video>
 
 
