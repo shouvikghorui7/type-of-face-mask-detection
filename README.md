@@ -31,8 +31,8 @@ pip install tensorflow opencv-python numpy matplotlib
 
 ## Demo Video
 
-[![Facial Mask Detection Demo](example.com/demo_video_thumbnail.jpg)](example.com/demo_video.mp4)
+[![Facial Mask Detection Demo]](video_cnn.mp4)
 
-Replace `example.com/demo_video_thumbnail.jpg` with the URL to your demo video thumbnail image, and `example.com/demo_video.mp4` with the URL to your demo video. This video showcases the facial mask detection model in action, displaying bounding boxes and class labels for face masks in real-time.
+
 
 
