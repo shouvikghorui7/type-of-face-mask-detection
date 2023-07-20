@@ -31,12 +31,12 @@ pip install tensorflow opencv-python numpy matplotlib
 
 ## Demo Video
 
-[![Facial Mask Detection Demo]](video_cnn.mp4)
-
+[![Facial Mask Detection Demo](cnn_demo.jpg)](video_cnn.mp4)
 
 <video width="560" height="315" controls>
-  <source src="video_cnn.mp4.mp4" type="video/mp4">
+  <source src="video_cnn.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 
